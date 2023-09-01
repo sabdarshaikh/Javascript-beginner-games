@@ -1,2 +1,4 @@
 # Javascript-beginner-games
-Contains 3 beginner level games which are made to give a better understanding of Javascript
+
+script.js, script2.js, script3.js these files conatins the games.
+
